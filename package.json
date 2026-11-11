@@ -1,0 +1,39 @@
+{
+  "name": "folder-guide-colors",
+  "displayName": "Folder Guide Colors",
+  "description": "Rainbow indent guides for the VS Code Explorer folder tree. Automatic colors by depth, including Agents windows and Linux Snap.",
+  "keywords": ["vscode", "explorer", "indent guides", "rainbow", "folder tree", "tree guides", "folder colors", "agents", "snap"],
+  "version": "0.1.0",
+  "publisher": "local-tools",
+  "license": "MIT",
+  "engines": { "vscode": "^1.113.0" },
+  "categories": ["Other"],
+  "main": "./src/extension.js",
+  "extensionKind": ["ui"],
+  "activationEvents": ["onStartupFinished"],
+  "capabilities": {
+    "agentsWindow": { "supported": true },
+    "untrustedWorkspaces": { "supported": true },
+    "virtualWorkspaces": { "supported": true }
+  },
+  "contributes": {
+    "commands": [
+      { "command": "folderGuideColors.enable", "title": "Folder Guide Colors: Enable" },
+      { "command": "folderGuideColors.disable", "title": "Folder Guide Colors: Disable" }
+    ]
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "check": "node scripts/check.js",
+    "package": "node scripts/package.js"
+  },
+  "dependencies": {
+    "jsonc-parser": "^3.3.1",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.6.0",
+    "jsdom": "^26.1.0",
+    "playwright-core": "^1.56.1"
+  }
+}
