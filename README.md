@@ -72,6 +72,8 @@ npm run package
 
 The installable VSIX is written to `dist/`. Install it using the steps above.
 
+Before publishing to the VS Code Marketplace, add the real repository URL to `package.json` so the README image and links can point to the hosted files.
+
 Optional visual checks:
 
 ```sh

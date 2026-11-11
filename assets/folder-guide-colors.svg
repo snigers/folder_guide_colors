@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="704" viewBox="0 0 1200 704" role="img" aria-labelledby="title description">
+<title id="title">Folder Guide Colors: before and after</title>
+<desc id="description">Two identical nested folder trees. The tree on the left has gray indent guides. The tree on the right has six repeating guide colors. File names and icons do not change. This is an illustration, not a screenshot.</desc>
+<rect width="1200" height="704" rx="20" fill="#10151e"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="48" y="66" font-size="35" font-weight="700" fill="#f3f6fb">See your folder depth at a glance.</text>
+<text x="48" y="102" font-size="19" fill="#aebccc">Rainbow indent guides for the VS Code Explorer and Agents file tree.</text>
+<rect x="48" y="137" width="532" height="419" rx="12" fill="#1d232e" stroke="#354050"/>
+<text x="72" y="175" fill="#b4bfcc" font-size="14" letter-spacing="1.2" font-weight="700">BEFORE</text>
+<path d="M 48 193 h 532" stroke="#354050"/>
+<path d="M 79 237 V 502" stroke="#8794a6" stroke-opacity=".28" stroke-width="2"/>
+<path d="M 103 267 V 472" stroke="#8794a6" stroke-opacity=".28" stroke-width="2"/>
+<path d="M 127 297 V 472" stroke="#8794a6" stroke-opacity=".28" stroke-width="2"/>
+<path d="M 151 327 V 472" stroke="#8794a6" stroke-opacity=".28" stroke-width="2"/>
+<path d="M 175 357 V 472" stroke="#8794a6" stroke-opacity=".28" stroke-width="2"/>
+<path d="M 199 387 V 472" stroke="#8794a6" stroke-opacity=".28" stroke-width="2"/>
+<path d="M 223 417 V 442" stroke="#8794a6" stroke-opacity=".28" stroke-width="2"/>
+<path d="m 72 222 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 88 219 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="115" y="231" font-size="17" fill="#d9e0ea">my-project</text>
+<path d="m 96 252 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 112 249 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="139" y="261" font-size="17" fill="#d9e0ea">src</text>
+<path d="m 120 282 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 136 279 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="163" y="291" font-size="17" fill="#d9e0ea">features</text>
+<path d="m 144 312 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 160 309 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="187" y="321" font-size="17" fill="#d9e0ea">account</text>
+<path d="m 168 342 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 184 339 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="211" y="351" font-size="17" fill="#d9e0ea">settings</text>
+<path d="m 192 372 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 208 369 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="235" y="381" font-size="17" fill="#d9e0ea">forms</text>
+<path d="m 216 402 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 232 399 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="259" y="411" font-size="17" fill="#d9e0ea">fields</text>
+<path d="M 258 428 h 10 l 5 5 v 13 h -15 Z M 268 428 v 5 h 5" fill="none" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="283" y="441" font-size="17" fill="#d9e0ea">Field.ts</text>
+<path d="M 234 458 h 10 l 5 5 v 13 h -15 Z M 244 458 v 5 h 5" fill="none" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="259" y="471" font-size="17" fill="#d9e0ea">index.ts</text>
+<path d="M 114 488 h 10 l 5 5 v 13 h -15 Z M 124 488 v 5 h 5" fill="none" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="139" y="501" font-size="17" fill="#d9e0ea">README.md</text>
+<rect x="620" y="137" width="532" height="419" rx="12" fill="#1d232e" stroke="#354050"/>
+<text x="644" y="175" fill="#f3f6fb" font-size="14" letter-spacing="1.2" font-weight="700">WITH FOLDER GUIDE COLORS</text>
+<path d="M 620 193 h 532" stroke="#354050"/>
+<path d="M 651 237 V 502" stroke="#ffd700" stroke-opacity=".65" stroke-width="2"/>
+<path d="M 675 267 V 472" stroke="#e387ff" stroke-opacity=".65" stroke-width="2"/>
+<path d="M 699 297 V 472" stroke="#61afef" stroke-opacity=".65" stroke-width="2"/>
+<path d="M 723 327 V 472" stroke="#98c379" stroke-opacity=".65" stroke-width="2"/>
+<path d="M 747 357 V 472" stroke="#fea364" stroke-opacity=".65" stroke-width="2"/>
+<path d="M 771 387 V 472" stroke="#47e5ed" stroke-opacity=".65" stroke-width="2"/>
+<path d="M 795 417 V 442" stroke="#ffd700" stroke-opacity=".65" stroke-width="2"/>
+<path d="m 644 222 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 660 219 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="687" y="231" font-size="17" fill="#d9e0ea">my-project</text>
+<path d="m 668 252 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 684 249 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="711" y="261" font-size="17" fill="#d9e0ea">src</text>
+<path d="m 692 282 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 708 279 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="735" y="291" font-size="17" fill="#d9e0ea">features</text>
+<path d="m 716 312 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 732 309 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="759" y="321" font-size="17" fill="#d9e0ea">account</text>
+<path d="m 740 342 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 756 339 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="783" y="351" font-size="17" fill="#d9e0ea">settings</text>
+<path d="m 764 372 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 780 369 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="807" y="381" font-size="17" fill="#d9e0ea">forms</text>
+<path d="m 788 402 4 4 4-4" fill="none" stroke="#a2aebf" stroke-width="1.5"/>
+<path d="M 804 399 h 6 l 2 3 h 10 v 13 h -18 Z" fill="#8798ac" fill-opacity=".15" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="831" y="411" font-size="17" fill="#d9e0ea">fields</text>
+<path d="M 830 428 h 10 l 5 5 v 13 h -15 Z M 840 428 v 5 h 5" fill="none" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="855" y="441" font-size="17" fill="#d9e0ea">Field.ts</text>
+<path d="M 806 458 h 10 l 5 5 v 13 h -15 Z M 816 458 v 5 h 5" fill="none" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="831" y="471" font-size="17" fill="#d9e0ea">index.ts</text>
+<path d="M 686 488 h 10 l 5 5 v 13 h -15 Z M 696 488 v 5 h 5" fill="none" stroke="#9bacc0" stroke-width="1.2"/>
+<text x="711" y="501" font-size="17" fill="#d9e0ea">README.md</text>
+<text x="48" y="599" font-size="19" fill="#e3eaf3">Same folders. Same names and icons. A color for each level.</text>
+<rect x="48" y="626" width="24" height="6" rx="3" fill="#ffd700"/>
+<rect x="84" y="626" width="24" height="6" rx="3" fill="#e387ff"/>
+<rect x="120" y="626" width="24" height="6" rx="3" fill="#61afef"/>
+<rect x="156" y="626" width="24" height="6" rx="3" fill="#98c379"/>
+<rect x="192" y="626" width="24" height="6" rx="3" fill="#fea364"/>
+<rect x="228" y="626" width="24" height="6" rx="3" fill="#47e5ed"/>
+<text x="282" y="635" font-size="16" fill="#aebccc">Six colors, repeating as the tree gets deeper.</text>
+<text x="48" y="676" font-size="13" fill="#8291a4">ILLUSTRATION · Folder Guide Colors</text>
+</g></svg>
